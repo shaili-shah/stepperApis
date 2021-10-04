@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Albiorix Technology\\Desktop\\projects\\StepperApis\\StepperApis.csproj": {}
+    "C:\\Users\\Albiorix Technology\\Desktop\\projects\\stepperApis\\StepperApis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Albiorix Technology\\Desktop\\projects\\StepperApis\\StepperApis.csproj": {
+    "C:\\Users\\Albiorix Technology\\Desktop\\projects\\stepperApis\\StepperApis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Albiorix Technology\\Desktop\\projects\\StepperApis\\StepperApis.csproj",
+        "projectUniqueName": "C:\\Users\\Albiorix Technology\\Desktop\\projects\\stepperApis\\StepperApis.csproj",
         "projectName": "StepperApis",
-        "projectPath": "C:\\Users\\Albiorix Technology\\Desktop\\projects\\StepperApis\\StepperApis.csproj",
+        "projectPath": "C:\\Users\\Albiorix Technology\\Desktop\\projects\\stepperApis\\StepperApis.csproj",
         "packagesPath": "C:\\Users\\Albiorix Technology\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Albiorix Technology\\Desktop\\projects\\StepperApis\\obj\\",
+        "outputPath": "C:\\Users\\Albiorix Technology\\Desktop\\projects\\stepperApis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Albiorix Technology\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.2, )"

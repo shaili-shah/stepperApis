@@ -16,12 +16,7 @@ namespace StepperApis.Controllers
             return new string[] { "test","api" };
         }
 
-        [Route("GetDetails")]
-        [HttpGet]
-        public IEnumerable<string> GetAlldsssssssssssssssf()
-        {
-            return new string[] { "test", "api" };
-        }
+        
 
     }
 }
