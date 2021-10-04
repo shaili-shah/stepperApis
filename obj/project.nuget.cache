@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5bzUVnqZg88LGNOpZtpzlG1Scyb1b+NwaJ8/6upGlouLL4Il0uCzccK7bXGyUSC76f+RN6a+OXLWq2Oj8RzTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Albiorix Technology\\Desktop\\projects\\StepperApis\\StepperApis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Albiorix Technology\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Albiorix Technology\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Albiorix Technology\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.2\\swashbuckle.aspnetcore.6.2.2.nupkg.sha512",
+    "C:\\Users\\Albiorix Technology\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.2\\swashbuckle.aspnetcore.swagger.6.2.2.nupkg.sha512",
+    "C:\\Users\\Albiorix Technology\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.2\\swashbuckle.aspnetcore.swaggergen.6.2.2.nupkg.sha512",
+    "C:\\Users\\Albiorix Technology\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.2\\swashbuckle.aspnetcore.swaggerui.6.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
